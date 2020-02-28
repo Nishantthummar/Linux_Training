@@ -1,0 +1,5 @@
+Schedulers
+https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm
+
+contiguous-and-non-contiguous-memory-allocation
+https://www.includehelp.com/operating-systems/contiguous-and-non-contiguous-memory-allocation.aspx
